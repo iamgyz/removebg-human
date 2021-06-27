@@ -2,6 +2,12 @@
 
 Fully powered by Tensorflow with the Semantic Segmentation in the Browser: DeepLab v3 Model!
 
+## Live demo
+https://rmbg.gyzlab.com/
+
+![image](https://github.com/iamgyz/removebg-human/raw/master/demo.gif?t=1)
+
+
 ## Setup
 
 Install dep
