@@ -2,6 +2,14 @@
 
 Fully powered by Tensorflow with the Semantic Segmentation in the Browser: DeepLab v3 Model!
 
+Note: This is just a practice for Tensorflow.js with deeplab model, the trained model and parameters are from the official repo directly. 
+
+## Live demo
+https://rmbg.gyzlab.com/
+
+![image](https://github.com/iamgyz/removebg-human/raw/master/demo.gif?t=1)
+
+
 ## Setup
 
 Install dep
